@@ -1,0 +1,27 @@
+/* Body to establish background and text color */
+body{
+    background-color: antiquewhite;
+    color: black;
+    margin-left: 50px;
+}
+/* Nav controls how to the page is displayed */
+nav{
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+nav img{
+    margin-right: 200px;
+    margin-left: 200px;
+}
+/* Center justify text and set space for margin */
+footer{
+    text-align: center;
+    margin-right: 200px;
+}
+/* Center justift */
+header{
+    text-align: center;
+}
